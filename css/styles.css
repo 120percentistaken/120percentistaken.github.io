@@ -11445,6 +11445,7 @@ html {
   width: 250px;
   height: 250px;
   background-size: cover;
+  background-image: url('assets/img/icon.jpg');
   display: block;
   border-top-left-radius: 125px;
  -webkit-border-top-left-radius: 125px;
